@@ -1,2 +1,2 @@
-# Survey-DVS-2021
+# Survey-Data Visualization Society-2021
 Survery Results Data
